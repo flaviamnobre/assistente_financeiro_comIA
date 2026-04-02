@@ -19,3 +19,6 @@ Ela pode notar, por exemplo, que a "tal" compra está acima do saldo e a pessoa 
 
 3 - Inicialmente, a pessoa inclui suas informações financeiras, como valor recebido e as despesas. Porém, o ideal é que, no futuro isso possa ser integrado ao aplicativo do banco e, inclusive, trazer sugestões de investimentos, produtos, etc...
 
+4 - O App pode ter um CSV em que o usuário inclui as informações de entradas e saídas e a IA o lê para fazer suas análises
+
+
